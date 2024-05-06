@@ -7,11 +7,18 @@
 	"Category": "Shooter",
 	"CreatedBy": "Coyo Prog",
 	"CreatedByURL": "https://coyoprog.github.io/",
-	"DocsURL": "https://coyoprog.github.io/plugins/advancedaimassist.html",
-	"MarketplaceURL": "",
-	"SupportURL": "https://discord.gg/etdaQ45EqY",
+	"DocsURL": "https://coyoprog.github.io/plugins/advancedaimassist/documentation.html",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6eef7429dbbb4d908d289b6399b9b2d6",
+	"SupportURL": "https://discord.gg/v9h3EKXZqf",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AdvancedAimAssist",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
