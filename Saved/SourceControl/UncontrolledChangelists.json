@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Content/AdvancedAimAssist/Blueprints/Components/AAA_BP_AimAssistComponent.uasset"
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Content/AdvancedAimAssist/Blueprints/Components/AAA_BP_AimAssistComponent.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Content/AdvancedAimAssist/UnrealFPS/Blueprints/AAA_BP_FirstPersonPlayer.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Content/AdvancedAimAssist/Maps/AAA_Showcase.umap"
 			]
 		}
 	]
