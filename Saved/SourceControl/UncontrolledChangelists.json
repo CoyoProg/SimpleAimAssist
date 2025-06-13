@@ -163,6 +163,11 @@
 				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssist5_4/Plugins/AdvancedAimAssist/Content/UnrealFPS/FirstPersonArms/Textures/UE4_Mannequin_MAT_MASKA.uasset",
 				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssist5_4/Plugins/AdvancedAimAssist/Content/DemoContent/Meshes/UELogo.uasset",
 				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssist5_4/Plugins/AdvancedAimAssist/Content/GameMode/AAA_BP_HUD.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Plugins/AdvancedAimAssist/Content/Blueprints/Components/AAA_BP_AimAssistComponent.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Plugins/AdvancedAimAssist/Content/Blueprints/ShootingTarget/AAA_BP_ShootingTarget.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Plugins/AdvancedAimAssist/Content/Maps/AAA_Showcase.umap",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Plugins/AdvancedAimAssist/Content/Blueprints/ShootingTarget/AAA_BP_BodyPart.uasset",
+				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssistPlugin/Plugins/AdvancedAimAssist/Content/UnrealFPS/Blueprints/AAA_BP_FirstPersonPlayer.uasset",
 				"C:/Users/cpaya/Documents/ArtFx/Unreal/AimAssist5_4/Plugins/AdvancedAimAssist/Content/Blueprints/AimAssist/AAA_BP_AimAssistPoint.uasset"
 			]
 		}
