@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Corentin/Plugins/SimpleAimAssist/Content/SimpleAimAssist/Blueprints/Components/BP_AimAssistComponent.uasset",
+				"E:/Corentin/Plugins/SimpleAimAssist/Content/SimpleAimAssist/Demo/UnrealFPS/Blueprints/BP_FirstPersonPlayer.uasset",
+				"E:/Corentin/Plugins/SimpleAimAssist/Content/SimpleAimAssist/Demo/Maps/ShowcaseMap.umap"
+			]
+		}
+	]
+}
